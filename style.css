@@ -1,0 +1,14 @@
+h3
+  {
+    font-size: 25px !important;
+    text-align: center;
+  }
+canvas {
+  	border:1px solid black;
+  }
+
+.happy-birthday
+{
+    box-shadow: 1px 1px 18px yellowgreen;
+    background-color:rgb(166, 61, 187);
+}
